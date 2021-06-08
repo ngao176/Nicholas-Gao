@@ -6,7 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Social Media
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Instagram: [nixago](https://www.instagram.com/nixago/?hl=en)
+FaceBook: [Nicholas Gao](https://www.facebook.com/profile.php?id=100068866316529)
 
 ```markdown
 Syntax highlighted code block
