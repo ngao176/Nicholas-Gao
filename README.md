@@ -7,6 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Social Media
 
 Instagram: [nixago](https://www.instagram.com/nixago/?hl=en)
+
 FaceBook: [Nicholas Gao](https://www.facebook.com/profile.php?id=100068866316529)
 
 ```markdown
