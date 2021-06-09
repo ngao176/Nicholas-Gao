@@ -10,22 +10,16 @@ Instagram: [nixago](https://www.instagram.com/nixago/?hl=en)
 
 FaceBook: [Nicholas Gao](https://www.facebook.com/profile.php?id=100068866316529)
 
-### Brag Sheet
+### Hobbies and Awards 
 
 ```markdown
-Syntax highlighted code block
+**1. Fine Arts**
+- _Awards:_ 2x Award of Excellence, May in China International Art Festival Young Artist Competition. 
 
-# Header 1
-## Header 2
-### Header 3
+**2. Soccer**
 
-- Bulleted
-- List
+**3. Chinese Bamboo Flute**
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
