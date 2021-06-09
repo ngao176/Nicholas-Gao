@@ -14,7 +14,8 @@ FaceBook: [Nicholas Gao](https://www.facebook.com/profile.php?id=100068866316529
 
 ```markdown
 1. Fine Arts
-- Awards: 2x Award of Excellence, May in China International Art Festival Young Artist Competition. 
+- Awards: 2x Award of Excellence, May in China International Art Festival Young Artist
+Competition. 
 
 2. Soccer
 - Awards: State Golden Team Rank 
