@@ -20,6 +20,4 @@ Competition.
 
 3. Chinese Bamboo Flute
 
-
-
 ```
