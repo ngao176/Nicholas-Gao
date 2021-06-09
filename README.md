@@ -13,12 +13,13 @@ FaceBook: [Nicholas Gao](https://www.facebook.com/profile.php?id=100068866316529
 ### Hobbies and Awards 
 
 ```markdown
-**1. Fine Arts**
-- _Awards:_ 2x Award of Excellence, May in China International Art Festival Young Artist Competition. 
+1. Fine Arts
+- Awards: 2x Award of Excellence, May in China International Art Festival Young Artist Competition. 
 
-**2. Soccer**
+2. Soccer
+- Awards: State Golden Team Rank 
 
-**3. Chinese Bamboo Flute**
+3. Chinese Bamboo Flute
 
 
 [Link](url) and ![Image](src)
