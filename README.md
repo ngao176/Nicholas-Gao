@@ -1,6 +1,6 @@
 ## All About Nicholas Gao
 
-![Image](src)
+![Image](https://drive.google.com/file/d/1jKvAZwkSP_ZUEJj_6AomQ8KhfFzbJAD1/view?usp=sharing)
 
 ### Social Media
 
